@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    background-color: rgb(232, 237, 241);
+    font-family: 'Hedvig Letters Serif';
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#title1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 25px;
+    font-weight: lighter;
+}
+
+#personalinfo1{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    columns: auto;
+    margin-top: 35px;
+    margin-left: -40px;
+}
+
+.subtitles1{
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.subtitle{
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.space{
+    margin-left: 8px;
+}
+
+.languagesp{
+    margin-top: 12px;
+}
+
+#theskils{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    columns: auto;
+    margin-top: 12px;
+    margin-bottom: 50px;
+    margin-left: -40px;
+}
